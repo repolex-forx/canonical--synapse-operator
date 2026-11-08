@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/canonical/synapse-operator/commit/97e2d8dc163f417fe6864a7c80d14406357f73c3",
       "git:hexsha": "97e2d8dc163f417fe6864a7c80d14406357f73c3",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T04:48:37.408410+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/synapse-operator/commit/bbad49337a24faeb208e1d61cf6cf78a23ca5709",
